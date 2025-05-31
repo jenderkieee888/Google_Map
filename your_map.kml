@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>1</name>
+      <Placemark>
+        <name>Central</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuWmAlKQtsn4HbLA_oC_CBTgBl3BhFfJmkYlEj114gzK8pFxomahKkr5BMaPj6-R5HXrYH5itQcWJAfehOZFz8dAF9t0NqcKyWaEu20SF2asIsLQhtDPRoDvxXApTtfCoIuslI3I4EJyeYD0LT1L79CQAbkeA-5r0k39LPdSHKJI5K4ylmZW2-3-Not3BFd64uWwGKIzGsBU-LniVg5x2BqjrufDcDbXSjy7DziNekxOp3BHZHKJNzQ1OM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuWmAlKQtsn4HbLA_oC_CBTgBl3BhFfJmkYlEj114gzK8pFxomahKkr5BMaPj6-R5HXrYH5itQcWJAfehOZFz8dAF9t0NqcKyWaEu20SF2asIsLQhtDPRoDvxXApTtfCoIuslI3I4EJyeYD0LT1L79CQAbkeA-5r0k39LPdSHKJI5K4ylmZW2-3-Not3BFd64uWwGKIzGsBU-LniVg5x2BqjrufDcDbXSjy7DziNekxOp3BHZHKJNzQ1OM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1587983,22.2799907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Peak Tram</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKskesxNUFIWDtcREnqM5MsFPt8xL046onkBO7-khwzXVpQJu3HuFcE5Mln54ltnv69jqjURFQSAPc2vlQM6AI7degZ4rcR4TiQbMBedM-eiL9gzVl1DwxEJNserkNGqax1lwMIpFjj9TwVrANywMUzHAzve3YJwXpDFKaSw8vADlX-d0u9d5MdX43vK2-po3RGfoh_qjWtC50c-2pfHm_KG_eDUWjD51ARGIgK5AU_c_KTC79F5K_LKy4I?authuser=0&fife=s16383" height="200" width="auto" /><br><br><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKun6DthrblLScV-2K10jHUP3iZ7qt3jBU0KJd20WzuC6Ve2SOLSG3_HrhkkvsWrPVPaFVt2o23hiTlJvSh6bAomTsbbM0oyxJwrlUxnZOKCMN341DBC0hM5NY3Vdsu5LqMHClNh4rmjd8v5s8VNo2eNfxw3pu70zhMZ9Ow4JVHu7cXoUZaxTZvgcTYDbf7H4XwsvW57YgNZmyGAxEAd9uIBZL58wsEZXNgh60LLlbgwGWEus2zbRqsG1M8?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKskesxNUFIWDtcREnqM5MsFPt8xL046onkBO7-khwzXVpQJu3HuFcE5Mln54ltnv69jqjURFQSAPc2vlQM6AI7degZ4rcR4TiQbMBedM-eiL9gzVl1DwxEJNserkNGqax1lwMIpFjj9TwVrANywMUzHAzve3YJwXpDFKaSw8vADlX-d0u9d5MdX43vK2-po3RGfoh_qjWtC50c-2pfHm_KG_eDUWjD51ARGIgK5AU_c_KTC79F5K_LKy4I?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKun6DthrblLScV-2K10jHUP3iZ7qt3jBU0KJd20WzuC6Ve2SOLSG3_HrhkkvsWrPVPaFVt2o23hiTlJvSh6bAomTsbbM0oyxJwrlUxnZOKCMN341DBC0hM5NY3Vdsu5LqMHClNh4rmjd8v5s8VNo2eNfxw3pu70zhMZ9Ow4JVHu7cXoUZaxTZvgcTYDbf7H4XwsvW57YgNZmyGAxEAd9uIBZL58wsEZXNgh60LLlbgwGWEus2zbRqsG1M8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1591909,22.2776827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hong Kong Observation Wheel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            114.1617221,22.2852859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>告士打道</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsa2aTRFmL3_LrDCXUwPni1hs47RNyFqmVN0fdl7Y6NPfLKnAOdz_M1wX3UJFE2vn84ND3S06StV1D_qhmr1ze_KE9Tm8UneSOfcshaY6bns0N1ffFtxUOrjfrCqjHGtYodNncEhdEpyfot2YSFitSHej94zEf_lgOcajwt7ajPU4Zv6oImpJvwFmlb1NeHlS_-R6HZMS3zmZXmW2hXpubQsxd9GCY_TmgYAOXlrxsR7lVTwx_JW9DnDKk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKsa2aTRFmL3_LrDCXUwPni1hs47RNyFqmVN0fdl7Y6NPfLKnAOdz_M1wX3UJFE2vn84ND3S06StV1D_qhmr1ze_KE9Tm8UneSOfcshaY6bns0N1ffFtxUOrjfrCqjHGtYodNncEhdEpyfot2YSFitSHej94zEf_lgOcajwt7ajPU4Zv6oImpJvwFmlb1NeHlS_-R6HZMS3zmZXmW2hXpubQsxd9GCY_TmgYAOXlrxsR7lVTwx_JW9DnDKk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1740088,22.2795001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>中华基督教礼贤会九龙堂</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKstx-N-_uiiN8CggKSsgZ7a1PgE0FHBwRqQzRrq_akxgrZndVpO1fyAWPLr0Ej9hsfIIaja4jCBlZNXa1JdwfrtZTIFfihcj4b7Pd8nKi_VNgV0Crwt3vHyueQLCc83v2FTwW19xatLjtWU8IjgTlzQXqAciC2qNGWgC8gCRpRZfcJE7rI4x5i6slylBbMHh9WQrHgLCu-4Hi_YVebB9HeEt8Y034USXe0XbZzGnd5aIqeKMCt6S2Kk7Fk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKstx-N-_uiiN8CggKSsgZ7a1PgE0FHBwRqQzRrq_akxgrZndVpO1fyAWPLr0Ej9hsfIIaja4jCBlZNXa1JdwfrtZTIFfihcj4b7Pd8nKi_VNgV0Crwt3vHyueQLCc83v2FTwW19xatLjtWU8IjgTlzQXqAciC2qNGWgC8gCRpRZfcJE7rI4x5i6slylBbMHh9WQrHgLCu-4Hi_YVebB9HeEt8Y034USXe0XbZzGnd5aIqeKMCt6S2Kk7Fk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.1750423,22.3297069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
